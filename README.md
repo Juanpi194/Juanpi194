@@ -57,7 +57,6 @@ To grow as a developer by working on meaningful projects and building solid, wel
 ## 📌 42 Projects
 
 ### 🥥 Pacman
-![Pacman](assets/Pacman.png)
 Description...
 Visuals were done by other 42 student (smarin-s)
 
@@ -65,6 +64,7 @@ Visuals were done by other 42 student (smarin-s)
 - 🎯 What I learned: ...
 - 🔧 Difficulty: hard
 
+![Pacman](assets/Pacman.png)
 
 ### 📓 Libft
 Description...
