@@ -50,8 +50,8 @@ To grow as a developer by working on meaningful projects and building solid, wel
 
 ---
 ### 📫 Contact
-- LinkedIn: Hey
-- Email: Buh-bye
+- [LinkedIn](https://www.linkedin.com/in/juan-pablo-vizca%C3%ADno-delgado-815b17351/?skipRedirect=true) 🐊
+- Email: juanpiviz194@gmail.com
 
 ---
 ## 📌 42 Projects
