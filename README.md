@@ -66,6 +66,7 @@ Visuals were done by other 42 student (smarin-s)
 
 ![Pacman](assets/Pacman.png)
 
+
 ### 📓 Libft
 Description...
 
@@ -73,12 +74,14 @@ Description...
 - 🎯 What I learned: ...
 - 🔧 Difficulty: medium
 
+
 ### 🤖 RAG
 Description...
 
 - 💻 Language: Python
 - 🎯 What I learned: ...
 - 🔧 Difficulty: hard
+
 
 ### 🎮 TAP
 Description...
@@ -90,6 +93,10 @@ Description...
 ---
 ## 🧠 Own Projects
 Not yet...
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanpi194&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/Juanpi194)
 
 ---
 ⭐ Always open to learning, collaborating, and new challenges (NOT AI)
