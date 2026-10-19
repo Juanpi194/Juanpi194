@@ -35,7 +35,7 @@ I'm passionate about programming, problem-solving, and understanding how things 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,godot,unity,github)](https://skillicons.dev)
 
 ### WIP
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,javascript,css,html)](https://skillicons.dev)
 
 ---
 ## 📌What I'm working on
