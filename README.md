@@ -29,13 +29,13 @@ I'm passionate about programming, problem-solving, and understanding how things 
 ## 🛠️ Technologies
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,godot,unity,github)](https://skillicons.dev)
 
 ### WIP
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,javascript,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,javascript,css,html,bash)](https://skillicons.dev)
 
 ---
 ## 📌What I'm working on
