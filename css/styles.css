@@ -1,27 +1,41 @@
-#technology-icons
+.about-me-list
 {
-	display: none;
-	flex-wrap: wrap;
-	gap: 12px;
+	opacity: 0;
+	transform: translateY(10px);
+	transition: opacity 0.3s ease,
+				transform 0.3s ease;
 }
 
-.technology-category:hover #technology-icons
+#about-me:hover + .about-me-list
 {
-	display: flex;
+	opacity: 1;
+	transform: translateY(0);
 }
 
-.contact-content {
-    opacity: 0;
-    transform: translateY(-20px);
-    pointer-events: none;
-
-    transition:
-        opacity 0.3s ease,
-        transform 0.3s ease;
+.projects-table
+{
+	border: 2px solid black;
+	color: darkslategrey;
+	opacity: 0;
+	transform: translateY(3px);
+	transition: opacity 0.3s ease,
+				transform 0.3s ease;
 }
 
-.contact-section:hover .contact-content {
-    opacity: 1;
-    transform: translateY(0);
-    pointer-events: auto;
+.projects-table th
+{
+	border: 1px solid black;
+	color: black;
 }
+
+#ft-projects:hover + .projects-table
+{
+	opacity: 1;
+	transform: translateY(0);
+}
+
+/* Everything here will be applied to all table, th and td elements*/
+/* table, th, td
+{
+	border: 1px solid black;
+} */
