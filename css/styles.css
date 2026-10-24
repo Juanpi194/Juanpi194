@@ -1,23 +1,23 @@
 .about-me-list
 {
 	opacity: 0;
-	transform: translateY(10px);
+	transform: translateY(-20px);
+	max-height: 0;
 	transition: opacity 0.3s ease,
-				transform 0.3s ease;
+				transform 0.3s ease,
+				max-height 0.5s ease;
 }
 
 #about-me:hover + .about-me-list
 {
 	opacity: 1;
 	transform: translateY(0);
+	max-height: 200px;
 }
 
 .projects-table
 {
 	border: 2px solid black;
-	color: darkslategrey;
-	opacity: 0;
-	transform: translateY(3px);
 	transition: opacity 0.3s ease,
 				transform 0.3s ease;
 }
@@ -26,12 +26,13 @@
 {
 	border: 1px solid black;
 	color: black;
+	width: 200px;
 }
 
-#ft-projects:hover + .projects-table
+.projects-table td
 {
-	opacity: 1;
-	transform: translateY(0);
+	text-align: center;
+	color: darkslategrey;
 }
 
 /* Everything here will be applied to all table, th and td elements*/
